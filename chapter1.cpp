@@ -1,3 +1,5 @@
+// Write programs for illustrating the concepts of Strings, Prefix, Suffix and Substring of a String.
+
 #include <iostream>
 #include <string>
 using namespace std;
